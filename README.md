@@ -1,4 +1,6 @@
-# DecodeLabs Week 1 Project - AWS Static Website Hosting
+# DecodeLabs Cloud Computing Internship - Week 1 Project
+
+## AWS S3 Static Website Hosting
 
 ## Project Name
 The Global Launch - Cloud Computing Project
